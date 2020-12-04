@@ -1,0 +1,15 @@
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/bin/Debug/net5.0/ToyBlockFactory.deps.json
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/bin/Debug/net5.0/ToyBlockFactory.runtimeconfig.json
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/bin/Debug/net5.0/ToyBlockFactory.runtimeconfig.dev.json
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/bin/Debug/net5.0/ToyBlockFactory.dll
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/bin/Debug/net5.0/ref/ToyBlockFactory.dll
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/bin/Debug/net5.0/ToyBlockFactory.pdb
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/obj/Debug/net5.0/ToyBlockFactory.csprojAssemblyReference.cache
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/obj/Debug/net5.0/ToyBlockFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/obj/Debug/net5.0/ToyBlockFactory.AssemblyInfoInputs.cache
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/obj/Debug/net5.0/ToyBlockFactory.AssemblyInfo.cs
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/obj/Debug/net5.0/ToyBlockFactory.csproj.CoreCompileInputs.cache
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/obj/Debug/net5.0/ToyBlockFactory.dll
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/obj/Debug/net5.0/ref/ToyBlockFactory.dll
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/obj/Debug/net5.0/ToyBlockFactory.pdb
+/Users/preetinadkarni/Documents/ToyBlockFactoryRepo/ToyBlockFactory/ToyBlockFactory/obj/Debug/net5.0/ToyBlockFactory.genruntimeconfig.cache
